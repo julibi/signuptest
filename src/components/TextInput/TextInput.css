@@ -1,0 +1,12 @@
+.textInput {
+  margin-bottom: 1em;
+  height: 40px;
+}
+
+.label {
+  text-align: left;
+}
+
+.errorMessage {
+  color: red;
+}
